@@ -1,0 +1,10 @@
+*.com
+*.class
+*.log
+*.sql
+*.jar
+*.ear
+*.war
+.Trashes
+Thumbs.db
+pom.properties
